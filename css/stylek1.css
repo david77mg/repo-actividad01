@@ -1,0 +1,59 @@
+header #headerk1 {
+    background-color:aqua;
+}
+
+header .headerk1 {
+    background-color: teal;
+    
+    margin-top: 3rem;
+}
+
+#id_body1 body{
+    background-color:coral;
+}
+
+.clase_body1 body{
+    background-color: teal;
+}
+
+.bgcolorblack h4 {
+    background-color:black;
+
+}
+
+.bgcolorteal {
+    background-color: teal;
+
+}
+
+#id_headerk1 header{
+    background-color:coral;
+}
+
+h4.stylefor4 {
+    color: teal;
+    background-color:black;
+    height: 3rem;
+}
+
+p.colorteal {
+    color: teal;
+}
+
+
+
+
+
+
+.div01 {
+    border-bottom:3px groove honeydew;
+    background: green;
+    
+    height: 5rem;
+    /* height: 20px ;
+    height: 5em;
+    height: 5vh;
+    height: 20%; */
+    
+}
+
